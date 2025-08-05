@@ -1,2 +1,2 @@
-# Capstone-Design
+# Capstone project
 collage project
